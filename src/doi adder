@@ -1,0 +1,35 @@
+import pandas as pd
+import requests
+from tqdm import tqdm  # tqdm is used for showing a smart progress meter
+
+
+def find_doi(title):
+    # Encode the title for URL
+    query = requests.utils.quote(title)
+    url = f"https://api.crossref.org/works?query={query}&rows=1"
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        items = data.get("message", {}).get("items", [])
+        if items:
+            # Return the DOI of the first result
+            return items[0].get("DOI", "")
+    return ""
+
+
+def add_doi_to_csv(input_csv, output_csv):
+    df = pd.read_csv(input_csv)
+    doi_list = []
+    for index, row in tqdm(df.iterrows(), total=df.shape[0], desc="Processing rows"):
+        title = row["Title"]
+        doi = find_doi(title)
+        doi_list.append(doi)
+        print(
+            f"Processed title: {title[:50]}... DOI: {doi}"
+        )  # Prints a truncated title and its DOI
+    df["doi"] = doi_list
+    df.to_csv(output_csv, index=False)
+
+
+# Replace 'src/final.csv' and 'src/final_doi.csv' with your actual file names
+add_doi_to_csv("src/final.csv", "src/final_doi.csv")

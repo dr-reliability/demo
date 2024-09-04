@@ -1,0 +1,291 @@
+/* fonts.css or at the top of App.css */
+@font-face {
+  font-family: 'Quicksand';
+  src: url('./fonts/Quicksand-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('./fonts/Quicksand-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('./fonts/Quicksand-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('./fonts/Quicksand-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('./fonts/Quicksand-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+/* Global font setting */
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+.my-masonry-grid {
+  display: flex;
+  margin-left: -15px; /* gutter size offset */
+  width: auto;
+}
+.my-masonry-grid_column {
+  padding-left: 15px; /* gutter size */
+  background-clip: padding-box;
+}
+
+/* Set minimum height for the column to be visible even when empty (if needed) */
+.my-masonry-grid_column::before {
+  content: '';
+  float: left;
+  height: 0.1px; /* This value might need to be adjusted or removed depending on the actual layout needs */
+}
+
+/* App.css or a dedicated CSS file */
+.card-title {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600; /* This sets the font to bold. You can change this to 300, 400, 500, 600, etc. */
+  font-size: 1.1rem; /* Adjust the size as needed */
+}
+
+.card-author {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500; /* This sets the font to bold. You can change this to 300, 400, 500, 600, etc. */
+  font-size: 0.9rem; /* Adjust the size as needed */
+}
+.card-venue {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 550; 
+  font-size: 1.0rem; /* Adjust the size as needed */
+  text-align: right; /* Aligns the text to the right */
+}
+
+
+/* Base style for Group Name buttons */
+/* CSS styles for Group Names */
+
+/* Base style for Group Name buttons */
+.group-name-btn {
+  padding: 4px 7px;
+  
+  cursor: pointer;
+  font-size: 0.9rem;
+  border: none;
+  margin: 2px;
+  text-align: center;
+  display: inline-block;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, font-weight 0.3s ease;
+  font-weight: normal; /* Default font weight */
+}
+
+/* Group-specific styles */
+.group-name-pioneer {
+  background-color: #ff55be62; /* Light Pink */
+  color: black;
+}
+
+.group-name-judge {
+  background-color: #5e5ce65d; /* Light Indigo */
+  color: black;
+}
+
+.group-name-instructor {
+  background-color: #30d15872; /* Light Green */
+  color: black;
+}
+
+.group-name-explorer {
+  background-color: #63636676; /* Light Grey */
+  color: black;
+}
+
+.group-name-explainer {
+  background-color: #ffd60a65; /* Light Yellow */
+  color: black;
+}
+
+.group-name-architect {
+  background-color: #ac8f684f; /* Light Brown */
+  color: black;
+}
+
+
+
+/* Hover and Active Effects for Filter Buttons */
+.group-name-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.group-name-btn:active {
+  font-weight: bold;
+}
+
+
+
+/* Ensure no default border on the Card */
+.card-body-wrapper .card {
+  border: none;
+  box-shadow: none; /* Remove any shadow if present */
+}
+
+/* Group Name Button on Cards (Non-Interactive, Always Bold, No Hover) */
+.card-group-name-btn {
+  padding: 4px 7px;
+  font-size:"1.3em";
+  
+  font-size: 0.8rem;
+  margin: 2px;
+  text-align: center;
+  display: inline-block;
+  font-weight: bold; /* Always bold */
+  color: black;
+  background-color: inherit; /* Background color will be set by specific group name classes */
+  cursor: default; /* Prevent cursor from changing to pointer */
+  transition: none; /* No transition effects */
+}
+:root {
+  --pioneer: #b93e8a2e;
+  --judge: #35347b3e;
+  --instructor: #21953e40;
+  --explorer: #33333526;
+  --explainer: #b1950742;
+  --architect: #67553d31;
+}
+
+/* Ensure no default border on the Card */
+.card-body-wrapper .card {
+  border: none;
+  box-shadow: none; /* Remove any shadow if present */
+}
+
+/* Card Styles */
+.card-body-wrapper {
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  border-width: 3px;
+  border-style: solid;
+  /* Border color is set dynamically in JSX */
+}
+.btn{
+  font-weight:500;
+}
+
+
+/* Specific Group Name Styles for Cards */
+.card-group-name-pioneer { background-color: #ff55be62; }
+.card-group-name-judge { background-color: #5e5ce65d; }
+.card-group-name-instructor { background-color: #30d15872; }
+.card-group-name-explorer { background-color: #63636676; }
+.card-group-name-explainer { background-color: #ffd60a65; }
+.card-group-name-architect { background-color: #ac8f684f; }
+
+.card-body-wrapper {
+  cursor: pointer;
+  transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s; /* Smooth transition for hover effects */
+  border: 3px solid var(--your-border-color-variable); /* Replace with dynamic border color */
+  border-radius: 5px;
+  margin-bottom: 5rem;
+}
+
+.card-body-wrapper:hover {
+  background-color: #fff; /* Keep background unchanged or subtly lighten it */
+  border-color: var(--your-border-color-variable-hover); /* Slight change in border color */
+  box-shadow: 1px 1px 2px 2px rgba(0, 123, 255, 0.2); /* Light shadow around the card */
+}
+.horizontal-slider {
+  width: 100%;
+  height: 25px;
+  margin-top: 10px;
+  position: relative;
+}
+
+.thumb {
+  height: 20px;
+  width: 20px;
+  background-color: #007bff;
+  border-radius: 50%;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 0px 0px 5px #aaa;
+  z-index: 2;
+}
+
+.track {
+  top: 10px;
+  bottom: 0;
+  height: 5px;
+  border-radius: 5px;
+  background: #ddd;
+  position: absolute;
+}
+
+.track-0 {
+  background: #ddd; /* Left part (before the first thumb) */
+}
+
+.track-1 {
+  background: #007bff; /* Middle part (between the two thumbs) */
+  z-index: 1;
+}
+
+.track-2 {
+  background: #ddd; /* Right part (after the second thumb) */
+}

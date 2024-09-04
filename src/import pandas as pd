@@ -1,0 +1,20 @@
+import pandas as pd
+import yaml
+
+
+def csv_to_yaml(csv_path, yaml_path):
+    # Read the CSV file
+    df = pd.read_csv(csv_path)
+
+    # Convert the DataFrame to a list of dictionaries
+    data = df.to_dict(orient="records")
+
+    # Write data to a YAML file
+    with open(yaml_path, "w") as file:
+        yaml.dump(data, file, allow_unicode=True, sort_keys=False)
+
+
+# Example usage
+csv_path = "src/final_doi.csv"
+yaml_path = "papers.yml"
+csv_to_yaml(csv_path, yaml_path)
