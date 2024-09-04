@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/demo/static/css/main.afef7836.css",
+    "main.js": "/demo/static/js/main.f7b7ef5f.js",
+    "static/js/453.751a5f4d.chunk.js": "/demo/static/js/453.751a5f4d.chunk.js",
+    "static/media/Quicksand-Medium.ttf": "/demo/static/media/Quicksand-Medium.9fd398f86ce80d968762.ttf",
+    "static/media/Quicksand-Regular.ttf": "/demo/static/media/Quicksand-Regular.67e7ce07307c681fb49d.ttf",
+    "static/media/Quicksand-SemiBold.ttf": "/demo/static/media/Quicksand-SemiBold.6018f97203d39e0dfc6d.ttf",
+    "static/media/Quicksand-Light.ttf": "/demo/static/media/Quicksand-Light.20523381a742ca1d4a26.ttf",
+    "static/media/Quicksand-Bold.ttf": "/demo/static/media/Quicksand-Bold.bac7ed87f9bcd95a6c55.ttf",
+    "index.html": "/demo/index.html",
+    "main.afef7836.css.map": "/demo/static/css/main.afef7836.css.map",
+    "main.f7b7ef5f.js.map": "/demo/static/js/main.f7b7ef5f.js.map",
+    "453.751a5f4d.chunk.js.map": "/demo/static/js/453.751a5f4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afef7836.css",
+    "static/js/main.f7b7ef5f.js"
+  ]
+}
