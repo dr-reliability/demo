@@ -1,0 +1,53 @@
+import csv
+import yaml
+
+
+# Load the CSV data
+def load_csv(file_path):
+    papers = {}
+    with open(file_path, newline="") as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            num = row["Num"]
+            citation = row["Citations"]
+            papers[num] = citation
+    return papers
+
+
+# Load the YAML data
+def load_yaml(file_path):
+    with open(file_path, "r") as yamlfile:
+        return yaml.safe_load(yamlfile)
+
+
+# Save updated YAML data
+def save_yaml(data, file_path):
+    with open(file_path, "w") as yamlfile:
+        yaml.dump(data, yamlfile, default_flow_style=False)
+
+
+# Update the YAML data with citations from the CSV
+def update_yaml_with_citations(yaml_data, csv_data):
+    for paper in yaml_data:
+        num = paper["Num"]
+        if num in csv_data:
+            paper["Citation"] = csv_data[num]
+    return yaml_data
+
+
+# Main function to update the YAML file
+def update_yaml_file(yaml_file_path, csv_file_path):
+    csv_data = load_csv(csv_file_path)
+    yaml_data = load_yaml(yaml_file_path)
+    updated_yaml_data = update_yaml_with_citations(yaml_data, csv_data)
+    save_yaml(updated_yaml_data, yaml_file_path)
+
+
+# Provide the path to your YAML and CSV files
+yaml_file = "public/papers3.yml"
+csv_file = "public/final.csv"
+
+# Run the update
+update_yaml_file(yaml_file, csv_file)
+
+print("YAML file updated with citations.")

@@ -40,7 +40,7 @@ def capitalize_title(title):
 
 
 # Load the YAML file
-with open("public/papers2.yml", "r") as file:
+with open("public/2.0papers2.yml", "r") as file:
     data = yaml.load(file)
 
 # Iterate over each entry in the YAML data

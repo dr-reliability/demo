@@ -62,4 +62,4 @@ def transform_yaml(input_file, output_file):
 
 
 # Example usage
-transform_yaml("public/papers.yml", "public/papers2.yml")
+transform_yaml("public/2.0papers.yml", "public/2.0papers2.yml")
