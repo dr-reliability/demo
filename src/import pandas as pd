@@ -15,6 +15,6 @@ def csv_to_yaml(csv_path, yaml_path):
 
 
 # Example usage
-csv_path = "src/final_doi.csv"
-yaml_path = "papers.yml"
+csv_path = "src/final.csv"
+yaml_path = "2.0papers.yml"
 csv_to_yaml(csv_path, yaml_path)

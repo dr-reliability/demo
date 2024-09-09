@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import yaml from 'js-yaml';
-import { Card, Button, Container, FormControl } from 'react-bootstrap';
+import { Card, Button, Container, FormControl, DropdownButton, Dropdown } from 'react-bootstrap';  // Import Dropdown components
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Masonry from 'react-masonry-css';
 import ReactSlider from 'react-slider';
@@ -17,6 +17,7 @@ const [isStageVisible, setIsStageVisible] = useState(true);
 const [isProblemsVisible, setIsProblemsVisible] = useState(true);
 const [isAimVisible, setIsAimVisible] = useState(true);
 const [isSolutionVisible, setIsSolutionVisible] = useState(true);
+const [sortBy, setSortBy] = useState('Random'); // State for sorting
 
   const [Tags, setTags] = useState({
     Stage: new Set(['Preprocessing', 'Dimensionality Reduction', 'Quantitative Evaluation', 'Visualization']),
@@ -63,7 +64,7 @@ const [isSolutionVisible, setIsSolutionVisible] = useState(true);
 
   useEffect(() => {
     const filterProjects = () => {
-      const filtered = allProjects.filter(project =>
+      let filtered = allProjects.filter(project =>
         Object.keys(selectedTags).every(category =>
           selectedTags[category].size === 0 || (
             project.Tags &&
@@ -79,12 +80,30 @@ const [isSolutionVisible, setIsSolutionVisible] = useState(true);
          project.Year.toString().includes(searchQuery)) &&
         project.Year >= yearRange[0] && project.Year <= yearRange[1]
       );
+      filtered = sortProjects(filtered); // Sort after filtering
       setFilteredProjects(filtered);
       setAvailableTags(getAvailableTags(filtered)); // Update available tags after filtering
     };
 
     filterProjects();
-  }, [selectedTags, allProjects, searchQuery, yearRange]);
+  }, [selectedTags, allProjects, searchQuery, yearRange,sortBy]);
+
+  const sortProjects = (projects) => {
+    switch (sortBy) {
+      case 'Name':
+        return projects.sort((a, b) => a.Title.localeCompare(b.Title));
+      case 'Date':
+        return projects.sort((a, b) => b.Year - a.Year);
+      case 'Venue':
+        return projects.sort((a, b) => a.Venue.localeCompare(b.Venue));
+      case 'Citations':
+        return projects.sort((a, b) => b.Citation - a.Citation); // Assuming you have citation data
+      case 'Random':
+      default:
+        return shuffleArray([...projects]);
+    }
+  };
+
   
   const getAvailableTags = (projects) => {
     const availableTags = {
@@ -153,10 +172,24 @@ const [isSolutionVisible, setIsSolutionVisible] = useState(true);
       {/* Header */}
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '10px', borderBottom: '1px solid #ddd' }}>
       <h2 style={{ margin: 0, fontWeight: 'bold' }}>Exploring High-dimensional Backstage</h2>
-    <p style={{ margin: 0, fontSize: '0.9em', color: '#555' }}>
+    <p style={{ margin: 0, fontSize: '0.9em', color: '#555' }}></p>
     
-    </p>
-        <div>
+    <div style={{ display: 'flex', alignItems: 'center' }}>
+          {/* Sorting Dropdown */}
+          <DropdownButton
+            title={`Sort by: ${sortBy}`}
+            variant="outline-primary"
+            style={{ marginRight: '10px' }}
+            onSelect={(eventKey) => setSortBy(eventKey)}
+          >
+            <Dropdown.Item eventKey="Name">Paper Name</Dropdown.Item>
+            <Dropdown.Item eventKey="Date">Paper Date</Dropdown.Item>
+            <Dropdown.Item eventKey="Venue">Venue</Dropdown.Item>
+            <Dropdown.Item eventKey="Citations">Citations</Dropdown.Item>
+            <Dropdown.Item eventKey="Random">Random</Dropdown.Item>
+          </DropdownButton>
+          
+          
           <Button variant="primary" style={{ marginRight: '10px' }} onClick={() => window.open('', '_blank')}>
             GitHub
           </Button>
@@ -310,21 +343,7 @@ const [isSolutionVisible, setIsSolutionVisible] = useState(true);
               Reset X
             </Button>
 
-            <Button
-              id="serendipity-filter"
-              onClick={() => setFilteredProjects(shuffleArray([...filteredProjects]))}
-              style={{
-                backgroundColor: 'grey',
-                color: 'white',
-                border: 'none',
-                padding: '4px 7px',
-                borderRadius: '5px',
-                cursor: 'pointer',
-                fontSize: '0.7rem',
-              }}
-            >
-              Serendipity
-            </Button>
+  
           </div>
 
         </div>
