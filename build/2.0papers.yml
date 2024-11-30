@@ -1,0 +1,5118 @@
+- Num: 54
+  Title: Multidimensional Projection with Radial Basis Function and Control Points
+    Selection
+  Authors: E. Amorim; E. V. Brazil; L. G. Nonato; F. Samavati; M. C. Sousa
+  Venue Abrev.: PacificVis
+  Venue: IEEE Pacific Visualization Symposium
+  Field: Visualization and Visual Analytics
+  Year: 2014
+  Preprocessing: 3.0
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: 3.0
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Amorim et al.
+  BibIdentifier: amorim14pacificvis
+  FirstAuthorBib: Amorim et al. \cite{amorim14pacificvis}
+  Order: 0
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 10
+- Num: 82
+  Title: Linear discriminative star coordinates for exploring class and cluster separation
+    of high dimensional data
+  Authors: Y. Wang, J. Li, F. Nie, H. Theisel, M. Gong, and D. J. Lehmann
+  Venue Abrev.: CGF
+  Venue: Computer Graphics Forum
+  Field: Visualization and Visual Analytics
+  Year: 2017
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Wang et al.
+  BibIdentifier: wang17cgf
+  FirstAuthorBib: Wang et al. \cite{wang17cgf}
+  Order: 1
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 35
+- Num: 109
+  Title: Multi-Perspective, Simultaneous Embedding
+  Authors: M. I. Hossain; V. Huroyan; S. Kobourov; R. Navarrete
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2021
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Hossain et al.
+  BibIdentifier: hossain21tvcg
+  FirstAuthorBib: Hossain et al. \cite{hossain21tvcg}
+  Order: 2
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 7
+- Num: 22
+  Title: RadViz and identification of clusters in multidimensional data
+  Authors: L. Novakova and O. Stepankova
+  Venue Abrev.: IVIS
+  Venue: International Conference on Information Visualisation
+  Field: Visualization and Visual Analytics
+  Year: 2009
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Novakova and Stepankova
+  BibIdentifier: novakova09ivis
+  FirstAuthorBib: Novakova and Stepankova \cite{novakova09ivis}
+  Order: 3
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 46
+- Num: 107
+  Title: Steering distortions to preserve classes and neighbors in supervised dimensionality
+    reduction
+  Authors: B. Colange, J. Peltonen, M. Aupetit, D. Dutykh, and S. Lespinats
+  Venue Abrev.: NeurIPS
+  Venue: DR Framework
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2020
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Colange et al.
+  BibIdentifier: colange20neurips
+  FirstAuthorBib: Colange et al. \cite{colange20neurips}
+  Order: 4
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 11
+- Num: 73
+  Title: Dimension reconstruction for visual exploration of subspace clusters in high-dimensional
+    data
+  Authors: F. Zhou et al.
+  Venue Abrev.: PacificVis
+  Venue: IEEE Pacific Visualization Symposium
+  Field: Visualization and Visual Analytics
+  Year: 2016
+  Preprocessing: 3.0
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Zhou et al.
+  BibIdentifier: zhouetal.16pacificvis
+  FirstAuthorBib: Zhou et al. \cite{zhouetal.16pacificvis}
+  Order: 5
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 30
+- Num: 17
+  Title: 'Least Square Projection: A Fast High-Precision Multidimensional Projection
+    Technique and Its Application to Document Mapping'
+  Authors: F. V. Paulovich; L. G. Nonato; R. Minghim; H. Levkowitz
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2008
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Paulovich et al.
+  BibIdentifier: paulovich08tvcg
+  FirstAuthorBib: Paulovich et al. \cite{paulovich08tvcg}
+  Order: 6
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 371
+- Num: 10
+  Title: Visualization of labeled data using linear transformations
+  Authors: Y. Koren and L. Carmel
+  Venue Abrev.: INFOVIS
+  Venue: IEEE Symposium on Information Visualization
+  Field: Visualization and Visual Analytics
+  Year: 2003
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Koren and Carmel
+  BibIdentifier: koren03infovis
+  FirstAuthorBib: Koren and Carmel \cite{koren03infovis}
+  Order: 7
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 97
+- Num: 102
+  Title: Hinted Star Coordinates for Mixed Data
+  Authors: Matute; Linsen.
+  Venue Abrev.: CGF
+  Venue: Computer Graphics Forum
+  Field: Visualization and Visual Analytics
+  Year: 2020
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Matute and  linsen.
+  BibIdentifier: matute20cgf
+  FirstAuthorBib: Matute and  linsen. \cite{matute20cgf}
+  Order: 8
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 4
+- Num: 3
+  Title: Exploratory projection pursuit
+  Authors: J. H. Friedman
+  Venue Abrev.: JASA
+  Venue: Journal of the American Statistical Association
+  Field: Statistics
+  Year: 1987
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Friedman
+  BibIdentifier: friedman87jasa
+  FirstAuthorBib: Friedman \cite{friedman87jasa}
+  Order: 9
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 1300
+- Num: 12
+  Title: Supervised nonlinear dimensionality reduction for visualization and classification
+  Authors: X. Geng, D. C. Zhan, and Z. H. Zhou
+  Venue Abrev.: TSMC
+  Venue: IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)
+  Field: Multidisciplinary
+  Year: 2005
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Geng et al.
+  BibIdentifier: geng05tsmc
+  FirstAuthorBib: Geng et al. \cite{geng05tsmc}
+  Order: 10
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 585
+- Num: 24
+  Title: Two-Stage Framework for Visualization of Clustered High Dimensional Data
+  Authors: J. Choo, S. Bohn, and H. Park
+  Venue Abrev.: VAST
+  Venue: IEEE Symposium on Visual Analytics Science and Technology
+  Field: Visualization and Visual Analytics
+  Year: 2009
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: 3.0
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Choo et al.
+  BibIdentifier: choo09vast
+  FirstAuthorBib: Choo et al. \cite{choo09vast}
+  Order: 11
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 67
+- Num: 53
+  Title: A Structure-Based Distance Metric for High-Dimensional Space Exploration
+    with Multidimensional Scaling
+  Authors: J. H. Lee; K. T. McDonnell; A. Zelenyuk; D. Imre; K. Mueller
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2014
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: 3.0
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Lee et al.
+  BibIdentifier: lee14tvcg
+  FirstAuthorBib: Lee et al. \cite{lee14tvcg}
+  Order: 12
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 63
+- Num: 94
+  Title: 'SolarView: Low Distortion Radial Embedding with a Focus'
+  Authors: T. Castermans; K. Verbeek; B. Speckmann; M. A. Westenberg; R. Koopman;
+    S. Wang; H. van den Berg; A. Betti
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2019
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Castermans et al.
+  BibIdentifier: castermans19tvcg
+  FirstAuthorBib: Castermans et al. \cite{castermans19tvcg}
+  Order: 13
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 9
+- Num: 46
+  Title: Orthographic star coordinates
+  Authors: D. J. Lehmann and H. Theisel
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2013
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Lehmann and Theisel
+  BibIdentifier: lehmann13tvcg
+  FirstAuthorBib: Lehmann and Theisel \cite{lehmann13tvcg}
+  Order: 14
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 55
+- Num: 124
+  Title: Uniform manifold approximation with two-phase optimization
+  Authors: H. Jeon, H.-K. Ko, S. Lee, J. Jo, and J. Seo
+  Venue Abrev.: VIS
+  Venue: IEEE Visualization Conference
+  Field: Visualization and Visual Analytics
+  Year: 2022
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Jeon et al.
+  BibIdentifier: jeon22vis
+  FirstAuthorBib: Jeon et al. \cite{jeon22vis}
+  Order: 15
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 8
+- Num: 15
+  Title: 'Dd-hds: A method for visualization and exploration of high-dimensional data'
+  Authors: S. Lespinats, M. Verleysen, A. Giron, and B. Fertil
+  Venue Abrev.: TNN
+  Venue: IEEE Transactions on Neural Networks
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2007
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Lespinats et al.
+  BibIdentifier: lespinats07tnn
+  FirstAuthorBib: Lespinats et al. \cite{lespinats07tnn}
+  Order: 16
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 102
+- Num: 98
+  Title: 'RadViz++: Improvements on radial-based visualizations'
+  Authors: L. d. C. Pagliosa and A. C. Telea
+  Venue Abrev.: Informatics
+  Venue: Informatics, 2019
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2019
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Pagliosa and Telea
+  BibIdentifier: pagliosa19informatics
+  FirstAuthorBib: Pagliosa and Telea \cite{pagliosa19informatics}
+  Order: 17
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 10
+- Num: 115
+  Title: 'Hct-sne: Hierarchical constraints with t-sne'
+  Authors: V. M. Vu, A. Bibal, and B. Frénay
+  Venue Abrev.: IJCNN
+  Venue: 2021 International Joint Conference on Neural Networks
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2021
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Vu et al.
+  BibIdentifier: vu21ijcnn
+  FirstAuthorBib: Vu et al. \cite{vu21ijcnn}
+  Order: 18
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 5
+- Num: 86
+  Title: A perception-driven approach to supervised dimensionality reduction for visualization
+  Authors: Y. Wang, K. Feng, X. Chu, J. Zhang, C.-W. Fu, M. Sedlmair, X. Yu, and B.
+    Chen
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2018
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Wang et al.
+  BibIdentifier: wang18tvcg
+  FirstAuthorBib: Wang et al. \cite{wang18tvcg}
+  Order: 19
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 68
+- Num: 69
+  Title: 'Loch: A neighborhood-based multidimensional projection technique for highdimensional
+    sparse spaces'
+  Authors: S. G. Fadel, F. M. Fatore, F. S. Duarte, and F. V. Paulovich
+  Venue Abrev.: Neurocomp
+  Venue: Neurocomputing
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2015
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Fadel et al.
+  BibIdentifier: fadel15neurocomp
+  FirstAuthorBib: Fadel et al. \cite{fadel15neurocomp}
+  Order: 20
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 39
+- Num: 130
+  Title: 'Class-Constrained t-SNE: Combining Data Features and Class Probabilities'
+  Authors: L. Meng; S. van den Elzen; N. Pezzotti; A. Vilanova
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2024
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Meng et al.
+  BibIdentifier: meng24tvcg
+  FirstAuthorBib: Meng et al. \cite{meng24tvcg}
+  Order: 21
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 5
+- Num: 110
+  Title: Spanning Trees as Approximation of Data Structures
+  Authors: D. Alcaide; J. Aerts
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2021
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Alcaide and Aerts
+  BibIdentifier: alcaide21tvcg
+  FirstAuthorBib: Alcaide and Aerts \cite{alcaide21tvcg}
+  Order: 22
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 5
+- Num: 106
+  Title: Density-preserving data visualization unveils dynamic patterns of single-cell
+    transcriptomic variability
+  Authors: A. Narayan, B. Berger, and H. Cho
+  Venue Abrev.: bioRxiv
+  Venue: bioRxiv
+  Field: Preprints
+  Year: 2020
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Narayan et al.
+  BibIdentifier: narayan20biorxiv
+  FirstAuthorBib: Narayan et al. \cite{narayan20biorxiv}
+  Order: 23
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 44
+- Num: 96
+  Title: 'Class-aware t-SNE: cat-SNE'
+  Authors: C. de Bodt, D. Mulders, D. L. Sánchez, M. Verleysen, and J. A. Lee
+  Venue Abrev.: ESANN
+  Venue: European Symposium on Artificial Neural Networks, Computational Intelligence
+    and Machine Learning
+  Field: Visualization and Visual Analytics
+  Year: 2019
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: De bodt et al.
+  BibIdentifier: debodt19esann
+  FirstAuthorBib: De bodt et al. \cite{debodt19esann}
+  Order: 24
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 19
+- Num: 95
+  Title: A new supervised t-sne with dissimilarity measure for effective data visualization
+    and classification
+  Authors: L. Hajderanj, I. Weheliye, and D. Chen
+  Venue Abrev.: ICSIE
+  Venue: Proceedings of the 8th International Conference on Software and Information
+    Engineering
+  Field: Visualization and Visual Analytics
+  Year: 2019
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Hajderanj et al.
+  BibIdentifier: hajderanj19icsie
+  FirstAuthorBib: Hajderanj et al. \cite{hajderanj19icsie}
+  Order: 25
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 27
+- Num: 93
+  Title: Shape-preserving Star Coordinates
+  Authors: V. Molchanov; L. Linsen
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2019
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Molchanov and Linsen
+  BibIdentifier: molchanov19tvcg
+  FirstAuthorBib: Molchanov and Linsen \cite{molchanov19tvcg}
+  Order: 26
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 6
+- Num: 8
+  Title: Global versus local methods in nonlinear dimensionality reduction
+  Authors: V. de Silva and J. B. Tenenbaum
+  Venue Abrev.: NeurIPS
+  Venue: Advances in Neural Information Processing Systems 15
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2002
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: De silva and Tenenbaum
+  BibIdentifier: desilva02neurips
+  FirstAuthorBib: De silva and Tenenbaum \cite{desilva02neurips}
+  Order: 27
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 1269
+- Num: 7
+  Title: Nonlinear dimensionality reduction by locally linear embedding
+  Authors: S. T. Roweis and L. K. Saul
+  Venue Abrev.: Science
+  Venue: Science Magazine of the American Association for the Advancement of Science
+  Field: Multidisciplinary
+  Year: 2000
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Roweis and Saul
+  BibIdentifier: roweis00science
+  FirstAuthorBib: Roweis and Saul \cite{roweis00science}
+  Order: 28
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 18706
+- Num: 1
+  Title: A projection pursuit algorithm for exploratory data analysis
+  Authors: J. H. Friedman and J. W. Tukey
+  Venue Abrev.: TC
+  Venue: IEEE Transactions on Computers
+  Field: Multidisciplinary
+  Year: 1974
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Friedman and Tukey
+  BibIdentifier: friedman74tc
+  FirstAuthorBib: Friedman and Tukey \cite{friedman74tc}
+  Order: 29
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 2728
+- Num: 5
+  Title: A global geometric framework for nonlinear dimensionality reduction
+  Authors: J. B. Tenenbaum, V. de Silva, and J. C. Langford
+  Venue Abrev.: Science
+  Venue: Science Magazine of the American Association for the Advancement of Science
+  Field: Multidisciplinary
+  Year: 2000
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Tenenbaum et al.
+  BibIdentifier: tenenbaum00science
+  FirstAuthorBib: Tenenbaum et al. \cite{tenenbaum00science}
+  Order: 30
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 17059
+- Num: 26
+  Title: Information retrieval perspective to nonlinear dimensionality reduction for
+    data visualization
+  Authors: J. Venna, J. Peltonen, K. Nybo, H. Aidos, and S. Kaski
+  Venue Abrev.: jmlr
+  Venue: Journal of Machine Learning Research
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2010
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Venna et al.
+  BibIdentifier: venna10jmlr
+  FirstAuthorBib: Venna et al. \cite{venna10jmlr}
+  Order: 31
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 391
+- Num: 38
+  Title: Shift-invariant similarities circumvent distance concentration in stochastic
+    neighbor embedding and variants
+  Authors: J. A. Lee and M. Verleysen
+  Venue Abrev.: PCS
+  Venue: Procedia Computer Science
+  Field: Visualization and Visual Analytics
+  Year: 2011
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: 3.0
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Lee and Verleysen
+  BibIdentifier: lee11pcs
+  FirstAuthorBib: Lee and Verleysen \cite{lee11pcs}
+  Order: 32
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 41
+- Num: 105
+  Title: Comparing and exploring high-dimensional data with dimensionality reduction
+    algorithms and matrix visualizations
+  Authors: R. Cutura, M. Aupetit, J.-D. Fekete, and M. Sedlmair
+  Venue Abrev.: AVI
+  Venue: Proceedings of the International Conference on Advanced Visual Interfaces
+  Field: Human-Computer Interaction
+  Year: 2020
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Cutura et al.
+  BibIdentifier: cutura20avi
+  FirstAuthorBib: Cutura et al. \cite{cutura20avi}
+  Order: 33
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 18
+- Num: 36
+  Title: Observation-level interaction with statistical models for visual analytics
+  Authors: A. Endert, C. Han, D. Maiti, L. House, and C. North
+  Venue Abrev.: VAST
+  Venue: IEEE Symposium on Visual Analytics Science and Technology
+  Field: Visualization and Visual Analytics
+  Year: 2011
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Endert et al.
+  BibIdentifier: endert11vast
+  FirstAuthorBib: Endert et al. \cite{endert11vast}
+  Order: 34
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 185
+- Num: 70
+  Title: Visual exploration of high-dimensional data through subspace analysis and
+    dynamic projections
+  Authors: S. Liu, B. Wang, J. J. Thiagarajan, P.-T. Bremer, and V. Pascucci
+  Venue Abrev.: CGF
+  Venue: Computer Graphics Forum
+  Field: Visualization and Visual Analytics
+  Year: 2015
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Liu et al.
+  BibIdentifier: liu15cgf
+  FirstAuthorBib: Liu et al. \cite{liu15cgf}
+  Order: 35
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 51
+- Num: 83
+  Title: 'Pattern Trails: Visual analysis of pattern transitions in subspaces'
+  Authors: D. Jackle, M. Hund, M. Behrisch, D. A. Keim, and T. Schreck
+  Venue Abrev.: VAST
+  Venue: IEEE Symposium on Visual Analytics Science and Technology
+  Field: Visualization and Visual Analytics
+  Year: 2017
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Jackle et al.
+  BibIdentifier: jackle17vast
+  FirstAuthorBib: Jackle et al. \cite{jackle17vast}
+  Order: 36
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 22
+- Num: 85
+  Title: Visual Exploration of Semantic Relationships in Neural Word Embeddings
+  Authors: S. Liu; P. -T. Bremer; J. J. Thiagarajan; V. Srikumar; B. Wang; Y. Livnat;
+    V. Pascucci
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2018
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Liu et al.
+  BibIdentifier: liu18tvcg
+  FirstAuthorBib: Liu et al. \cite{liu18tvcg}
+  Order: 37
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 134
+- Num: 108
+  Title: Implicit Multidimensional Projection of Local Subspaces
+  Authors: R. Bian; Y. Xue; L. Zhou; J. Zhang; B. Chen; D. Weiskopf; Y. Wang
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2021
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Bian et al.
+  BibIdentifier: bian21tvcg
+  FirstAuthorBib: Bian et al. \cite{bian21tvcg}
+  Order: 38
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 13
+- Num: 66
+  Title: Extending dimensions in RadViz based on mean shift
+  Authors: F. Zhou, Wei Huang, Juncai Li, Yezi Huang, Yang Shi, and Ying Zhao
+  Venue Abrev.: PacificVis
+  Venue: IEEE Pacific Visualization Symposium
+  Field: Visualization and Visual Analytics
+  Year: 2015
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Zhou et al.
+  BibIdentifier: zhou15pacificvis
+  FirstAuthorBib: Zhou et al. \cite{zhou15pacificvis}
+  Order: 39
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 29
+- Num: 39
+  Title: 'iLAMP: Exploring high-dimensional spacing through backward multidimensional
+    projection'
+  Authors: E. P. dos Santos Amorim; E. V. Brazil; J. Daniels; P. Joia; L. G. Nonato;
+    M. C. Sousa
+  Venue Abrev.: VAST
+  Venue: IEEE Symposium on Visual Analytics Science and Technology
+  Field: Visualization and Visual Analytics
+  Year: 2012
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Dos santos amorim et al.
+  BibIdentifier: dossantosamorim12vast
+  FirstAuthorBib: Dos santos amorim et al. \cite{dossantosamorim12vast}
+  Order: 40
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 72
+- Num: 56
+  Title: Axis calibration for improving data attribute estimation in star coordinates
+    plots
+  Authors: M. Rubio-Sanchez and A. Sanchez
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2014
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Rubio-sanchez and Sanchez
+  BibIdentifier: rubio-sanchez14tvcg
+  FirstAuthorBib: Rubio-sanchez and Sanchez \cite{rubio-sanchez14tvcg}
+  Order: 41
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 27
+- Num: 45
+  Title: 'Explainers: Expert explorations with crafted projections'
+  Authors: M. Gleicher
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2013
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Gleicher
+  BibIdentifier: gleicher13tvcg
+  FirstAuthorBib: Gleicher \cite{gleicher13tvcg}
+  Order: 42
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 97
+- Num: 87
+  Title: Exploring high-dimensional data through locally enhanced projections
+  Authors: C. Lai, Y. Zhao, and X. Yuan
+  Venue Abrev.: VLC
+  Venue: Journal of Visual Languages & Computing
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2018
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Lai et al.
+  BibIdentifier: lai18vlc
+  FirstAuthorBib: Lai et al. \cite{lai18vlc}
+  Order: 43
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 8
+- Num: 88
+  Title: Fast, visual and interactive semisupervised dimensionality reduction
+  Authors: D. Spathis, N. Passalis, and A. Tefas
+  Venue Abrev.: ECCV
+  Venue: European Conference on Computer Vision
+  Field: Visualization and Visual Analytics
+  Year: 2018
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Spathis et al.
+  BibIdentifier: spathis18eccv
+  FirstAuthorBib: Spathis et al. \cite{spathis18eccv}
+  Order: 44
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 8
+- Num: 127
+  Title: Interactive Visual Cluster Analysis by Contrastive Dimensionality Reduction
+  Authors: J. Xia; L. Huang; W. Lin; X. Zhao; J. Wu; Y. Chen; Y. Zhao; W. Chen
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2023
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Xia et al.
+  BibIdentifier: xia23tvcg
+  FirstAuthorBib: Xia et al. \cite{xia23tvcg}
+  Order: 45
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 24
+- Num: 34
+  Title: Piece wise Laplacian-based Projection for Interactive Data Exploration and
+    Organization
+  Authors: Paulovich, F.V.; Eler, D.M.; Poco, J.; Botha, C.P.; Minghim, R.; Nonato,
+    L.G.
+  Venue Abrev.: CGF
+  Venue: Computer Graphics Forum
+  Field: Visualization and Visual Analytics
+  Year: 2011
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Paulovich et al.
+  BibIdentifier: paulovich11cgf
+  FirstAuthorBib: Paulovich et al. \cite{paulovich11cgf}
+  Order: 46
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 113
+- Num: 35
+  Title: Local affine multidimensional projection
+  Authors: P. Joia, D. Coimbra, J. A. Cuminato, F. V. Paulovich, and L. G. Nonato
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2011
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Joia et al.
+  BibIdentifier: joia11tvcg
+  FirstAuthorBib: Joia et al. \cite{joia11tvcg}
+  Order: 47
+  Group: 3
+  GroupName: Creator
+  DOI: .nan
+  Citations: 342
+- Num: 129
+  Title: 'ZADU: A Python Library for Evaluating the Reliability of Dimensionality
+    Reduction Embeddings'
+  Authors: H. Jeon; A. Cho; J. Jang; S. Lee; J. Hyun; H. -K. Ko; J. Jo; J. Seo
+  Venue Abrev.: VIS
+  Venue: 2023 IEEE Visualization and Visual Analytics
+  Field: Visualization and Visual Analytics
+  Year: 2023
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: 3.0
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Jeon et al.
+  BibIdentifier: jeon23vis
+  FirstAuthorBib: Jeon et al. \cite{jeon23vis}
+  Order: 48
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 4
+- Num: 117
+  Title: Using multiple attribute-based explanations of multidimensional projections
+    to explore high-dimensional data
+  Authors: Z. Tian, X. Zhai, D. van Driel, G. van Steenpaal, M. Espadoto, and A. Telea
+  Venue Abrev.: CG
+  Venue: Computers & Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2021
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Tian et al.
+  BibIdentifier: tian21cg
+  FirstAuthorBib: Tian et al. \cite{tian21cg}
+  Order: 49
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 17
+- Num: 23
+  Title: Selecting good views of high-dimensional data using class consistency
+  Authors: M. Sips, B. Neubert, J. Lewis, and P. Hanrahan
+  Venue Abrev.: CGF
+  Venue: Computer Graphics Forum
+  Field: Visualization and Visual Analytics
+  Year: 2009
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Sips et al.
+  BibIdentifier: sips09cgf
+  FirstAuthorBib: Sips et al. \cite{sips09cgf}
+  Order: 50
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 243
+- Num: 14
+  Title: 'VizRank: Data visualization guided by machine learning'
+  Authors: G. Leban, B. Zupan, G. Vidmar, and I. Bratko
+  Venue Abrev.: DMKD
+  Venue: Data Mining and Knowledge Discovery
+  Field: Data Mining
+  Year: 2006
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Leban et al.
+  BibIdentifier: leban06dmkd
+  FirstAuthorBib: Leban et al. \cite{leban06dmkd}
+  Order: 51
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 128
+- Num: 67
+  Title: Graph-based measures to assist user assessment of multidimensional projections
+  Authors: R. Motta, R. Minghim, A. de Andrade Lopes, and M. C. F. Oliveira
+  Venue Abrev.: Neurocomp
+  Venue: Neurocomputing
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2015
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Motta et al.
+  BibIdentifier: motta15neurocomp
+  FirstAuthorBib: Motta et al. \cite{motta15neurocomp}
+  Order: 52
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 47
+- Num: 79
+  Title: Agreement analysis of quality measures for dimensionality reduction
+  Authors: B. Rieck and H. Leitte
+  Venue Abrev.: TMDAV
+  Venue: Topological Methods in Data Analysis and Visualization IV
+  Field: Visualization and Visual Analytics
+  Year: 2017
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: 3.0
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Rieck and Leitte
+  BibIdentifier: rieck17tmdav
+  FirstAuthorBib: Rieck and Leitte \cite{rieck17tmdav}
+  Order: 53
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 22
+- Num: 61
+  Title: Persistent Homology for the Evaluation of Dimensionality Reduction Schemes
+  Authors: Rieck, B.; Leitte, H.
+  Venue Abrev.: CGF
+  Venue: Computer Graphics Forum
+  Field: Visualization and Visual Analytics
+  Year: 2015
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Rieck et al.
+  BibIdentifier: rieck15cgf
+  FirstAuthorBib: Rieck et al. \cite{rieck15cgf}
+  Order: 54
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 77
+- Num: 28
+  Title: Scale-independent quality criteria for dimensionality reduction
+  Authors: J. A. Lee and M. Verleysen
+  Venue Abrev.: PRL
+  Venue: Pattern Recognition Letters
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2010
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Lee and Verleysen
+  BibIdentifier: lee10prl
+  FirstAuthorBib: Lee and Verleysen \cite{lee10prl}
+  Order: 55
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 109
+- Num: 37
+  Title: Perception-based visual quality measures
+  Authors: G. Albuquerque, M. Eisemann, and M. Magnor
+  Venue Abrev.: VAST
+  Venue: IEEE Symposium on Visual Analytics Science and Technology
+  Field: Visualization and Visual Analytics
+  Year: 2011
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Albuquerque et al.
+  BibIdentifier: albuquerque11vast
+  FirstAuthorBib: Albuquerque et al. \cite{albuquerque11vast}
+  Order: 56
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 72
+- Num: 118
+  Title: 'Effectiveness Error: Measuring and Improving RadViz Visual Effectiveness'
+  Authors: M. Angelini; G. Blasilli; S. Lenti; A. Palleschi; G. Santucci
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2022
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Angelini et al.
+  BibIdentifier: angelini22tvcg
+  FirstAuthorBib: Angelini et al. \cite{angelini22tvcg}
+  Order: 57
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 9
+- Num: 119
+  Title: Measuring and Explaining the Inter-Cluster Reliability of Multidimensional
+    Projections
+  Authors: H. Jeon; H. -K. Ko; J. Jo; Y. Kim; J. Seo
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2021
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Jeon et al.
+  BibIdentifier: jeon21tvcg
+  FirstAuthorBib: Jeon et al. \cite{jeon21tvcg}
+  Order: 58
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 15
+- Num: 0
+  Title: Multidimensional scaling by optimizing goodness of fit to a nonmetric hypothesis
+  Authors: J.B. KRUSKAL
+  Venue Abrev.: Psycho
+  Venue: Psychometrika
+  Field: Statistics
+  Year: 1964
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Kruskal
+  BibIdentifier: kruskal64psycho
+  FirstAuthorBib: Kruskal \cite{kruskal64psycho}
+  Order: 59
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 10386
+- Num: 58
+  Title: Sanity check for class-coloring-based evaluation of dimension reduction techniques
+  Authors: M. Aupetit
+  Venue Abrev.: BELIV
+  Venue: 'Proceedings of the Fifth Workshop on Beyond Time and Errors: Novel Evaluation
+    Methods for Visualization'
+  Field: Visualization and Visual Analytics
+  Year: 2014
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Aupetit
+  BibIdentifier: aupetit14beliv
+  FirstAuthorBib: Aupetit \cite{aupetit14beliv}
+  Order: 60
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 24
+- Num: 131
+  Title: 'Classes are Not Clusters: Improving Label-Based Evaluation of Dimensionality
+    Reduction'
+  Authors: H. Jeon; Y. -H. Kuo; M. Aupetit; K. -L. Ma; J. Seo
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2024
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Jeon et al.
+  BibIdentifier: jeon24tvcg
+  FirstAuthorBib: Jeon et al. \cite{jeon24tvcg}
+  Order: 61
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 4
+- Num: 128
+  Title: Interpreting High-Dimensional Projections With Capacity
+  Authors: Y. Zhang; J. Liu; C. Lai; Y. Zhou; S. Chen
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2023
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Zhang et al.
+  BibIdentifier: zhang23tvcg
+  FirstAuthorBib: Zhang et al. \cite{zhang23tvcg}
+  Order: 62
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 0
+- Num: 18
+  Title: Interactive Dimensionality Reduction Through User-defined Combinations of
+    Quality Metrics
+  Authors: S. Johansson; J. Johansson
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2009
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Johansson and Johansson
+  BibIdentifier: johansson09tvcg
+  FirstAuthorBib: Johansson and Johansson \cite{johansson09tvcg}
+  Order: 63
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 184
+- Num: 25
+  Title: Improving the visual analysis of high-dimensional datasets using quality
+    measures
+  Authors: G. Albuquerque, M. Eisemann, D. J. Lehmann, H. Theisel, and M. Magnor
+  Venue Abrev.: VAST
+  Venue: IEEE Symposium on Visual Analytics Science and Technology
+  Field: Visualization and Visual Analytics
+  Year: 2010
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Albuquerque et al.
+  BibIdentifier: albuquerque10vast
+  FirstAuthorBib: Albuquerque et al. \cite{albuquerque10vast}
+  Order: 64
+  Group: 0
+  GroupName: Seeker
+  DOI: .nan
+  Citations: 80
+- Num: 44
+  Title: Empirical guidance on scatterplot and dimension reduction technique choices
+  Authors: M. Sedlmair, T. Munzner, and M. Tory
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2013
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: 3.0
+  Computaional Experiment: .nan
+  FirstAuthor: Sedlmair et al.
+  BibIdentifier: sedlmair13tvcg
+  FirstAuthorBib: Sedlmair et al. \cite{sedlmair13tvcg}
+  Order: 65
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 231
+- Num: 13
+  Title: Local multidimensional scaling
+  Authors: J. Venna and S. Kaski
+  Venue Abrev.: NN
+  Venue: Neural Networks
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2006
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: 3.0
+  FirstAuthor: Venna and Kaski
+  BibIdentifier: venna06nn
+  FirstAuthorBib: Venna and Kaski \cite{venna06nn}
+  Order: 66
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 374
+- Num: 49
+  Title: Stability comparison of dimensionality reduction techniques attending to
+    data and parameter variations
+  Authors: F. J. García Fernández, M. Verleysen, J. A. Lee, I. Díaz Blanco, et al.
+  Venue Abrev.: VAMP
+  Venue: Proc. Workshop on Visual Analytics using Multidimensional Projections, VAMP
+    ’13
+  Field: Visualization and Visual Analytics
+  Year: 2013
+  Preprocessing: 3.0
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: 3.0
+  FirstAuthor: García fernández et al.
+  BibIdentifier: garcíafernández13vamp
+  FirstAuthorBib: García fernández et al. \cite{garcíafernández13vamp}
+  Order: 67
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 28
+- Num: 78
+  Title: A survey of dimensionality reduction techniques based on random projection
+  Authors: H. Xie, J. Li, and H. Xue
+  Venue Abrev.: arXiv
+  Venue: arXiv:1706.04371 [cs.LG]
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2017
+  Preprocessing: 3.0
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: 3.0
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Xie et al.
+  BibIdentifier: xie17arxiv
+  FirstAuthorBib: Xie et al. \cite{xie17arxiv}
+  Order: 68
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 72
+- Num: 116
+  Title: Initialization is critical for preserving global data structure in both t-SNE
+    and UMAP
+  Authors: D. Kobak and G. C. Linderman
+  Venue Abrev.: NB
+  Venue: Nature Biotechnology
+  Field: Multidisciplinary
+  Year: 2021
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Kobak and Linderman
+  BibIdentifier: kobak21nb
+  FirstAuthorBib: Kobak and Linderman \cite{kobak21nb}
+  Order: 69
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 248
+- Num: 104
+  Title: A comparative user study of visualization techniques for cluster analysis
+    of multidimensional data sets
+  Authors: E. Ventocilla and M. Riveiro
+  Venue Abrev.: IVIS
+  Venue: Information Visualization
+  Field: Visualization and Visual Analytics
+  Year: 2020
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: 3.0
+  Computaional Experiment: .nan
+  FirstAuthor: Ventocilla and Riveiro
+  BibIdentifier: ventocilla20ivis
+  FirstAuthorBib: Ventocilla and Riveiro \cite{ventocilla20ivis}
+  Order: 70
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 23
+- Num: 120
+  Title: 'Revisiting Dimensionality Reduction Techniques for Visual Cluster Analysis:
+    An Empirical Study'
+  Authors: J. Xia; Y. Zhang; J. Song; Y. Chen; Y. Wang; S. Liu
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2022
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: 3.0
+  Computaional Experiment: .nan
+  FirstAuthor: Xia et al.
+  BibIdentifier: xia22tvcg
+  FirstAuthorBib: Xia et al. \cite{xia22tvcg}
+  Order: 71
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 51
+- Num: 92
+  Title: 'Multidimensional Projection for Visual Analytics: Linking Techniques with
+    Distortions, Tasks, and Layout Enrichment'
+  Authors: L. G. Nonato; M. Aupetit
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2019
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: 3.0
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: 3.0
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Nonato and Aupetit
+  BibIdentifier: nonato19tvcg
+  FirstAuthorBib: Nonato and Aupetit \cite{nonato19tvcg}
+  Order: 72
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 268
+- Num: 68
+  Title: 'Linear dimensionality reduction: Survey, insights, and generalizations'
+  Authors: J. Cunningham and Z. Ghahramani
+  Venue Abrev.: jmlr
+  Venue: Journal of Machine Learning Research, Volume 16, Issue 1
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2015
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: 3.0
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: 3.0
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Cunningham and Ghahramani
+  BibIdentifier: cunningham15jmlr
+  FirstAuthorBib: Cunningham and Ghahramani \cite{cunningham15jmlr}
+  Order: 73
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 756
+- Num: 40
+  Title: A survey of dimension reduction methods for high-dimensional data analysis
+    and visualization
+  Authors: D. Engel, L. Huttenberger, and B. Hamann
+  Venue Abrev.: IRTG
+  Venue: Proceedings of IRTG
+  Field: Visualization and Visual Analytics
+  Year: 2012
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: 3.0
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Engel et al.
+  BibIdentifier: engel12irtg
+  FirstAuthorBib: Engel et al. \cite{engel12irtg}
+  Order: 74
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 140
+- Num: 55
+  Title: A survey of dimensionality reduction techniques
+  Authors: C. O. S. Sorzano, J. Vargas, and A. Pascual-Montano
+  Venue Abrev.: arXiv
+  Venue: arXiv:1403.2877 [stat.ML]
+  Field: Preprints
+  Year: 2014
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: 3.0
+  Human-Centered Experiment: .nan
+  Computaional Experiment: 3.0
+  FirstAuthor: Sorzano et al.
+  BibIdentifier: sorzano14arxiv
+  FirstAuthorBib: Sorzano et al. \cite{sorzano14arxiv}
+  Order: 75
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 515
+- Num: 64
+  Title: Data visualization by nonlinear dimensionality reduction
+  Authors: A. Gisbrecht and B. Hammer
+  Venue Abrev.: dmkd
+  Venue: WIREs Data Mining and Knowledge Discovery
+  Field: Data Mining
+  Year: 2015
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: 3.0
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Gisbrecht and Hammer
+  BibIdentifier: gisbrecht15dmkd
+  FirstAuthorBib: Gisbrecht and Hammer \cite{gisbrecht15dmkd}
+  Order: 76
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 99
+- Num: 111
+  Title: Toward a Quantitative Survey of Dimension Reduction Techniques
+  Authors: M. Espadoto; R. M. Martins; A. Kerren; N. S. T. Hirata; A. C. Telea
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2021
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: 3.0
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Espadoto et al.
+  BibIdentifier: espadoto21tvcg
+  FirstAuthorBib: Espadoto et al. \cite{espadoto21tvcg}
+  Order: 77
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 340
+- Num: 89
+  Title: 'VisCoDeR: A tool for visually comparing dimensionality reduction algorithms'
+  Authors: R. Cutura, S. Holzer, M. Aupetit, and M. Sedlmair
+  Venue Abrev.: ESANN
+  Venue: European Symposium on Artificial Neural Networks, Computational Intelligence
+    and Machine Learning
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2018
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Cutura et al.
+  BibIdentifier: cutura18esann
+  FirstAuthorBib: Cutura et al. \cite{cutura18esann}
+  Order: 78
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 35
+- Num: 132
+  Title: Large-Scale Evaluation of Topic Models and Dimensionality Reduction Methods
+    for 2D Text Spatialization
+  Authors: D. Atzberger; T. Cech; M. Trapp; R. Richter; W. Scheibel; J. Döllner; T.
+    Schreck
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2024
+  Preprocessing: 3.0
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: 3.0
+  FirstAuthor: Atzberger et al.
+  BibIdentifier: atzberger24tvcg
+  FirstAuthorBib: Atzberger et al. \cite{atzberger24tvcg}
+  Order: 79
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 10
+- Num: 19
+  Title: 'Dimensionality reduction: A comparative review'
+  Authors: L. van der Maaten and E. Postma
+  Venue Abrev.: jmlr
+  Venue: "\tJournal of Machine Learning Research"
+  Field: Preprints
+  Year: 2009
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: 3.0
+  FirstAuthor: Van der maaten and Postma
+  BibIdentifier: vandermaaten09jmlr
+  FirstAuthorBib: Van der maaten and Postma \cite{vandermaaten09jmlr}
+  Order: 80
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 2672
+- Num: 71
+  Title: A comparative study between RadViz and Star Coordinates
+  Authors: M. Rubio-Sánchez; L. Raya; F. Díaz; A. Sanchez
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2016
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: 3.0
+  FirstAuthor: Rubio-sánchez et al.
+  BibIdentifier: rubio-sánchez16tvcg
+  FirstAuthorBib: Rubio-sánchez et al. \cite{rubio-sánchez16tvcg}
+  Order: 81
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 91
+- Num: 21
+  Title: 'Quality assessment of dimensionality reduction: Rank-based criteria'
+  Authors: Lee and Verleysen
+  Venue Abrev.: Neurocomp
+  Venue: Neurocomputing
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2009
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: 3.0
+  FirstAuthor: Lee and  verleysen
+  BibIdentifier: lee09neurocomp
+  FirstAuthorBib: Lee and  verleysen \cite{lee09neurocomp}
+  Order: 82
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 360
+- Num: 100
+  Title: Spectral overlap and a comparison of parameter-free, dimensionality reduction
+    quality metrics
+  Authors: J. Johannemann and R. Tibshirani
+  Venue Abrev.: arXiv
+  Venue: arXiv:1907.01974
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2019
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: 3.0
+  FirstAuthor: Johannemann and Tibshirani
+  BibIdentifier: johannemann19arxiv
+  FirstAuthorBib: Johannemann and Tibshirani \cite{johannemann19arxiv}
+  Order: 83
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 2
+- Num: 60
+  Title: Perception-Based Evaluation of Projection Methods for Multidimensional Data
+    Visualization
+  Authors: R. Etemadpour; R. Motta; J. G. d. S. Paiva; R. Minghim; M. C. F. de Oliveira;
+    L. Linsen
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2015
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: 3.0
+  Computaional Experiment: .nan
+  FirstAuthor: Etemadpour et al.
+  BibIdentifier: etemadpour15tvcg
+  FirstAuthorBib: Etemadpour et al. \cite{etemadpour15tvcg}
+  Order: 84
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 74
+- Num: 31
+  Title: 'Visual quality metrics and human perception: An initial study on 2D projections
+    of large multidimensional data'
+  Authors: A. Tatu, P. Bak, E. Bertini, D. A. Keim, and J. Schneidewind
+  Venue Abrev.: AVI
+  Venue: Proceedings of the International Conference on Advanced Visual Interfaces
+  Field: Visualization and Visual Analytics
+  Year: 2010
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: 3.0
+  Computaional Experiment: .nan
+  FirstAuthor: Tatu et al.
+  BibIdentifier: tatu10avi
+  FirstAuthorBib: Tatu et al. \cite{tatu10avi}
+  Order: 85
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 88
+- Num: 52
+  Title: Visualizing the quality of dimensionality reduction
+  Authors: W. Lueks, A. Gisbrecht, and B. Hammer
+  Venue Abrev.: Neurocomp
+  Venue: Neurocomputing
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2013
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: 3.0
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Lueks et al.
+  BibIdentifier: lueks13neurocomp
+  FirstAuthorBib: Lueks et al. \cite{lueks13neurocomp}
+  Order: 86
+  Group: 2
+  GroupName: Instructor
+  DOI: .nan
+  Citations: 94
+- Num: 84
+  Title: 'The Subspace Voyager: Exploring high-dimensional data along a continuum
+    of salient 3D subspaces'
+  Authors: B. Wang and K. Mueller
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2017
+  Preprocessing: 3.0
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Wang and Mueller
+  BibIdentifier: wang17tvcg
+  FirstAuthorBib: Wang and Mueller \cite{wang17tvcg}
+  Order: 87
+  Group: 4
+  GroupName: Explorer
+  DOI: .nan
+  Citations: 33
+- Num: 11
+  Title: 'Dust & magnet: multivariate information visualization using a magnet metaphor'
+  Authors: Yi, R. Melton, J. T. Stasko, and J. A. Jacko
+  Venue Abrev.: IVIS
+  Venue: Information Visualization
+  Field: Visualization and Visual Analytics
+  Year: 2005
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Yi et al.
+  BibIdentifier: yi05ivis
+  FirstAuthorBib: Yi et al. \cite{yi05ivis}
+  Order: 88
+  Group: 4
+  GroupName: Explorer
+  DOI: .nan
+  Citations: 259
+- Num: 2
+  Title: 'The grand tour: A tool for viewing multidimensional data'
+  Authors: D. Asimov
+  Venue Abrev.: SIAM
+  Venue: SIAM Journal on Scientific and Statistical Computing
+  Field: Statistics
+  Year: 1985
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Asimov
+  BibIdentifier: asimov85siam
+  FirstAuthorBib: Asimov \cite{asimov85siam}
+  Order: 89
+  Group: 4
+  GroupName: Explorer
+  DOI: .nan
+  Citations: 940
+- Num: 4
+  Title: Grand tour and projection pursuit
+  Authors: D. Cook, A. Buja, J. Cabrera, and C. Hurley
+  Venue Abrev.: JCGS
+  Venue: Journal of Computational and Graphical Statistics
+  Field: Statistics
+  Year: 1995
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Cook et al.
+  BibIdentifier: cook95jcgs
+  FirstAuthorBib: Cook et al. \cite{cook95jcgs}
+  Order: 90
+  Group: 4
+  GroupName: Explorer
+  DOI: .nan
+  Citations: 340
+- Num: 50
+  Title: 'TripAdvisor N-D: A tourism-inspired high-dimensional space exploration framework
+    with overview and detail'
+  Authors: J. E. Nam and K. Mueller
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2013
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Nam and Mueller
+  BibIdentifier: nam13tvcg
+  FirstAuthorBib: Nam and Mueller \cite{nam13tvcg}
+  Order: 91
+  Group: 4
+  GroupName: Explorer
+  DOI: .nan
+  Citations: 74
+- Num: 76
+  Title: 'The Grassmannian Atlas: A general framework for exploring linear projections
+    of high-dimensional data'
+  Authors: S. Liu, P.-T. Bremer, J. Jayaraman, B. Wang, B. Summa, and V. Pascucci
+  Venue Abrev.: CGF
+  Venue: Computer Graphics Forum
+  Field: Visualization and Visual Analytics
+  Year: 2016
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: 3.0
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Liu et al.
+  BibIdentifier: liu16cgf
+  FirstAuthorBib: Liu et al. \cite{liu16cgf}
+  Order: 92
+  Group: 4
+  GroupName: Explorer
+  DOI: .nan
+  Citations: 18
+- Num: 16
+  Title: Visualizing distortions and recovering topology in continuous projection
+    techniques
+  Authors: M. Aupetit
+  Venue Abrev.: Neurocomp
+  Venue: Neurocomputing
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2007
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Aupetit
+  BibIdentifier: aupetit07neurocomp
+  FirstAuthorBib: Aupetit \cite{aupetit07neurocomp}
+  Order: 93
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 158
+- Num: 30
+  Title: Techniques for precision-based visual analysis of projected data
+  Authors: SCHRECK T., VON LANDESBERGER T., BREMM S.
+  Venue Abrev.: VDA
+  Venue: Proceedings of SPIE-IS and T Electronic Imaging - Visualization and Data
+    Analysis
+  Field: Visualization and Visual Analytics
+  Year: 2010
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Schreck t. et al.
+  BibIdentifier: schreckt.10vda
+  FirstAuthorBib: Schreck t. et al. \cite{schreckt.10vda}
+  Order: 94
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 88
+- Num: 65
+  Title: Explaining neighborhood preservation for multidimensional projections
+  Authors: R. M. Martins, R. Minghim, A. C. Telea, et al.
+  Venue Abrev.: SVCG
+  Venue: Scientific Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2015
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: 3.0
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Martins et al.
+  BibIdentifier: martins15svcg
+  FirstAuthorBib: Martins et al. \cite{martins15svcg}
+  Order: 95
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 57
+- Num: 29
+  Title: 'Stress maps: Analysing local phenomena in dimensionality reduction based
+    visualisations'
+  Authors: C. Seifert, V. Sabol, and W. Kienreich
+  Venue Abrev.: EuroVA
+  Venue: 'EuroVA: International Workshop on Visual Analytics'
+  Field: Visualization and Visual Analytics
+  Year: 2010
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Seifert et al.
+  BibIdentifier: seifert10eurova
+  FirstAuthorBib: Seifert et al. \cite{seifert10eurova}
+  Order: 96
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 45
+- Num: 47
+  Title: 'Proxilens: Interactive exploration of high-dimensional data using projections'
+  Authors: N. Heulot, M. Aupetit, and J. D. Fekete
+  Venue Abrev.: VAMP
+  Venue: EuroVis Workshop on Visual Analytics using Multidimensional Projections
+  Field: Visualization and Visual Analytics
+  Year: 2013
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Heulot et al.
+  BibIdentifier: heulot13vamp
+  FirstAuthorBib: Heulot et al. \cite{heulot13vamp}
+  Order: 97
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 40
+- Num: 122
+  Title: Distortion-aware brushing for interactive cluster analysis in multidimensional
+    projections
+  Authors: H. Jeon, M. Aupetit, S. Lee, H.-K. Ko, Y. Kim, and J. Seo
+  Venue Abrev.: arXiv
+  Venue: arXiv
+  Field: Preprints
+  Year: 2022
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Jeon et al.
+  BibIdentifier: jeon22arxiv
+  FirstAuthorBib: Jeon et al. \cite{jeon22arxiv}
+  Order: 98
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 5
+- Num: 59
+  Title: Visual analysis of dimensionality reduction quality for parameterized projections
+  Authors: R. M. Martins, D. B. Coimbra, R. Minghim, and A. C. Telea
+  Venue Abrev.: CG
+  Venue: Computers & Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2014
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Martins et al.
+  BibIdentifier: martins14cg
+  FirstAuthorBib: Martins et al. \cite{martins14cg}
+  Order: 99
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 144
+- Num: 33
+  Title: 'CheckViz: Sanity Check and Topological Clues for Linear and Non-Linear Mappings'
+  Authors: Lespinats, Sylvain; Aupetit, Micha√´l
+  Venue Abrev.: CGF
+  Venue: Computer Graphics Forum
+  Field: Visualization and Visual Analytics
+  Year: 2011
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Lespinats et al.
+  BibIdentifier: lespinats11cgf
+  FirstAuthorBib: Lespinats et al. \cite{lespinats11cgf}
+  Order: 100
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 123
+- Num: 91
+  Title: Interpreting Distortions in Dimensionality Reduction by Superimposing Neighbourhood
+    Graphs
+  Authors: B. Colange; L. Vuillon; S. Lespinats; D. Dutykh
+  Venue Abrev.: VIS
+  Venue: IEEE Visualization Conference
+  Field: Visualization and Visual Analytics
+  Year: 2019
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Colange et al.
+  BibIdentifier: colange19vis
+  FirstAuthorBib: Colange et al. \cite{colange19vis}
+  Order: 101
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 9
+- Num: 75
+  Title: 'InterAxis: Steering scatterplot axes via observation-level interaction'
+  Authors: H. Kim, J. Choo, H. Park, and A. Endert
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2016
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Kim et al.
+  BibIdentifier: kim16tvcg
+  FirstAuthorBib: Kim et al. \cite{kim16tvcg}
+  Order: 102
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 108
+- Num: 80
+  Title: 'AxiSketcher: Interactive nonlinear axis mapping of visualizations through
+    user drawings'
+  Authors: B. C. Kwon, H. Kim, E. Wall, J. Choo, H. Park, and A. Endert
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2017
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Kwon et al.
+  BibIdentifier: kwon17tvcg
+  FirstAuthorBib: Kwon et al. \cite{kwon17tvcg}
+  Order: 103
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 76
+- Num: 42
+  Title: Just-in-time annotation of clusters, outliers, and trends in point-based
+    data visualizations
+  Authors: E. Kandogan
+  Venue Abrev.: VAST
+  Venue: IEEE Symposium on Visual Analytics Science and Technology
+  Field: Visualization and Visual Analytics
+  Year: 2012
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Kandogan
+  BibIdentifier: kandogan12vast
+  FirstAuthorBib: Kandogan \cite{kandogan12vast}
+  Order: 104
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 100
+- Num: 74
+  Title: Explaining three-dimensional dimensionality reduction plots
+  Authors: D. B. Coimbra, R. M. Martins, T. T. Neves, A. C. Telea, and F. V. Paulovich
+  Venue Abrev.: IVIS
+  Venue: Information Visualization
+  Field: Visualization and Visual Analytics
+  Year: 2016
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Coimbra et al.
+  BibIdentifier: coimbra16ivis
+  FirstAuthorBib: Coimbra et al. \cite{coimbra16ivis}
+  Order: 105
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 52
+- Num: 97
+  Title: 'DimReader: axis lines that explain non-linear projections'
+  Authors: R. Faust, D. Glickenstein, and C. Scheidegger
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2019
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Faust et al.
+  BibIdentifier: faust19tvcg
+  FirstAuthorBib: Faust et al. \cite{faust19tvcg}
+  Order: 106
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 50
+- Num: 77
+  Title: Understanding attribute variability in multidimensional projections
+  Authors: L. Pagliosa, P. Pagliosa, and L. G. Nonato
+  Venue Abrev.: SIBGRAPI
+  Venue: Conference on Graphics, Patterns and Images
+  Field: Visualization and Visual Analytics
+  Year: 2016
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Pagliosa et al.
+  BibIdentifier: pagliosa16sibgrapi
+  FirstAuthorBib: Pagliosa et al. \cite{pagliosa16sibgrapi}
+  Order: 107
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 25
+- Num: 63
+  Title: Attribute-based visual explanation of multidimensional projections
+  Authors: R. da Silva, P. Rauber, R. M. Martins, R. Minghim, and A. C. Telea
+  Venue Abrev.: EuroVA
+  Venue: Proceedings of International EuroVis Workshop on Visual Analytics
+  Field: Visualization and Visual Analytics
+  Year: 2015
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Da silva et al.
+  BibIdentifier: dasilva15eurova
+  FirstAuthorBib: Da silva et al. \cite{dasilva15eurova}
+  Order: 108
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 54
+- Num: 6
+  Title: Coloring that reveals cluster structures in multivariate data
+  Authors: KASKI, VENNA J., KOHONEN T.
+  Venue Abrev.: IIPS
+  Venue: Australian Journal of Intelligent Information Processing Systems
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2000
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Kaski et al.
+  BibIdentifier: kaski00iips
+  FirstAuthorBib: Kaski et al. \cite{kaski00iips}
+  Order: 109
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 69
+- Num: 113
+  Title: Attribute-based explanation of non-linear embeddings of high-dimensional
+    data
+  Authors: J.-T. Sohns, M. Schmitt, F. Jirasek, H. Hasse, and H. Leitte
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2021
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Sohns et al.
+  BibIdentifier: sohns21tvcg
+  FirstAuthorBib: Sohns et al. \cite{sohns21tvcg}
+  Order: 110
+  Group: 6
+  GroupName: Interpreter
+  DOI: .nan
+  Citations: 16
+- Num: 62
+  Title: Observation-level and parametric interaction for exploratory data analysis
+  Authors: J. Z. Self, L. House, S. Leman, and C. North
+  Venue Abrev.: Tr
+  Venue: Technical report, Department of Computer Sc., Virginia Tech, Virginia
+  Field: Preprints
+  Year: 2015
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: 3.0
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: 3.0
+  FirstAuthor: Self et al.
+  BibIdentifier: self15tr
+  FirstAuthorBib: Self et al. \cite{self15tr}
+  Order: 111
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 19
+- Num: 51
+  Title: User-driven feature space transformation
+  Authors: G. M. Mamani, F. M. Fatore, L. G. Nonato, and F. V. Paulovich
+  Venue Abrev.: CGF
+  Venue: Computer Graphics Forum
+  Field: Visualization and Visual Analytics
+  Year: 2013
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Mamani et al.
+  BibIdentifier: mamani13cgf
+  FirstAuthorBib: Mamani et al. \cite{mamani13cgf}
+  Order: 112
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 55
+- Num: 20
+  Title: 'ipca: An interactive system for pca-based visual analytics'
+  Authors: D. H. Jeong, C. Ziemkiewicz, B. Fisher, W. Ribarsky, and R. Chang
+  Venue Abrev.: CGF
+  Venue: Computer Graphics Forum
+  Field: Visualization and Visual Analytics
+  Year: 2009
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Jeong et al.
+  BibIdentifier: jeong09cgf
+  FirstAuthorBib: Jeong et al. \cite{jeong09cgf}
+  Order: 113
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 291
+- Num: 27
+  Title: 'iVisClassifier: An Interactive Visual Analytics System for Classification
+    Based on Supervised Dimension Reduction'
+  Authors: J. Choo, H. Lee, J. Kim, and H. Park
+  Venue Abrev.: VAST
+  Venue: IEEE Symposium on Visual Analytics Science and Technology
+  Field: Visualization and Visual Analytics
+  Year: 2010
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Choo et al.
+  BibIdentifier: choo10vast
+  FirstAuthorBib: Choo et al. \cite{choo10vast}
+  Order: 114
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 178
+- Num: 99
+  Title: 'SIRIUS: Dual, symmetric, interactive dimension reductions'
+  Authors: M. Dowling, J. Wenskovitch, J. T. Fry, S. Leman, L. House, and C. North
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2019
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Dowling et al.
+  BibIdentifier: dowling19tvcg
+  FirstAuthorBib: Dowling et al. \cite{dowling19tvcg}
+  Order: 115
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 44
+- Num: 126
+  Title: Incorporation of Human Knowledge into Data Embeddings to Improve Pattern
+    Significance and Interpretability
+  Authors: J. Li; C. -q. Zhou
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2023
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Li and Zhou
+  BibIdentifier: li23tvcg
+  FirstAuthorBib: Li and Zhou \cite{li23tvcg}
+  Order: 116
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 9
+- Num: 90
+  Title: A visual interaction framework for dimensionality reduction based data exploration
+  Authors: M. Cavallo and Ç. Demiralp
+  Venue Abrev.: CHI
+  Venue: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+  Field: Human-Computer Interaction
+  Year: 2018
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Cavallo and Demiralp
+  BibIdentifier: cavallo18chi
+  FirstAuthorBib: Cavallo and Demiralp \cite{cavallo18chi}
+  Order: 117
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 69
+- Num: 72
+  Title: 'Probing Projections: Interaction Techniques for Interpreting Arrangements
+    and Errors of Dimensionality Reductions'
+  Authors: J. Stahnke; M. Dörk; B. Müller; A. Thom
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2016
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Stahnke et al.
+  BibIdentifier: stahnke16tvcg
+  FirstAuthorBib: Stahnke et al. \cite{stahnke16tvcg}
+  Order: 118
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 138
+- Num: 114
+  Title: Explaining dimensionality reduction results using shapley values
+  Authors: W. E. Marcílio-Jr and D. M. Eler
+  Venue Abrev.: ESWA
+  Venue: Expert Systems with Applications
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2021
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Marcílio-jr and Eler
+  BibIdentifier: marcílio-jr21eswa
+  FirstAuthorBib: Marcílio-jr and Eler \cite{marcílio-jr21eswa}
+  Order: 119
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 35
+- Num: 103
+  Title: 't-viSNE: Interactive Assessment and Interpretation of t-SNE Projections'
+  Authors: A. Chatzimparmpas; R. M. Martins; A. Kerren
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2020
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Chatzimparmpas et al.
+  BibIdentifier: chatzimparmpas20tvcg
+  FirstAuthorBib: Chatzimparmpas et al. \cite{chatzimparmpas20tvcg}
+  Order: 120
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 135
+- Num: 57
+  Title: Distortion-guided structure-driven interactive exploration of high-dimensional
+    data
+  Authors: S. Liu, B. Wang, P.-T. Bremer, and V. Pascucci
+  Venue Abrev.: CGF
+  Venue: Computer Graphics Forum
+  Field: Visualization and Visual Analytics
+  Year: 2014
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Liu et al.
+  BibIdentifier: liu14cgf
+  FirstAuthorBib: Liu et al. \cite{liu14cgf}
+  Order: 121
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 50
+- Num: 121
+  Title: 'VisExPreS: A Visual Interactive Toolkit for User-Driven Evaluations of Embeddings'
+  Authors: A. Ghosh; M. Nashaat; J. Miller; S. Quader
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2022
+  Preprocessing: .nan
+  Dimensionality Reduction: .nan
+  Quantitative Evaluation: 3.0
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Ghosh et al.
+  BibIdentifier: ghosh22tvcg
+  FirstAuthorBib: Ghosh et al. \cite{ghosh22tvcg}
+  Order: 122
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 5
+- Num: 41
+  Title: 'Dis-function: Learning distance functions interactively'
+  Authors: E. T. Brown, J. Liu, C. E. Brodley, and R. Chang
+  Venue Abrev.: VAST
+  Venue: IEEE Symposium on Visual Analytics Science and Technology
+  Field: Visualization and Visual Analytics
+  Year: 2012
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: 3.0
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Brown et al.
+  BibIdentifier: brown12vast
+  FirstAuthorBib: Brown et al. \cite{brown12vast}
+  Order: 123
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 252
+- Num: 43
+  Title: An interactive visual testbed system for dimension reduction and clustering
+    of large-scale highdimensional data
+  Authors: J. Choo, H. Lee, Z. Liu, J. Stasko, and H. Park
+  Venue Abrev.: VDA
+  Venue: Proceedings of SPIE-IS and T Electronic Imaging - Visualization and Data
+    Analysis
+  Field: Visualization and Visual Analytics
+  Year: 2013
+  Preprocessing: 3.0
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: 3.0
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Choo et al.
+  BibIdentifier: choo13vda
+  FirstAuthorBib: Choo et al. \cite{choo13vda}
+  Order: 124
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 42
+- Num: 48
+  Title: Quality-based guidance for exploratory dimensionality reduction
+  Authors: FERNSTAD, SHAW J., JOHANSSON J.
+  Venue Abrev.: IVIS
+  Venue: Information Visualization
+  Field: Visualization and Visual Analytics
+  Year: 2013
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: 3.0
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: 3.0
+  unstable: .nan
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Fernstad et al.
+  BibIdentifier: fernstad13ivis
+  FirstAuthorBib: Fernstad et al. \cite{fernstad13ivis}
+  Order: 125
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 36
+- Num: 32
+  Title: Brushing Dimensions - A Dual Visual Analysis Model for High-Dimensional Data
+  Authors: C. Turkay; P. Filzmoser; H. Hauser
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2011
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: 3.0
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Turkay et al.
+  BibIdentifier: turkay11tvcg
+  FirstAuthorBib: Turkay et al. \cite{turkay11tvcg}
+  Order: 126
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 135
+- Num: 112
+  Title: Visual Analysis of Class Separations With Locally Linear Segments
+  Authors: Y. Ma; R. Maciejewski
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2021
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: .nan
+  uninterpretable: 3.0
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Ma and Maciejewski
+  BibIdentifier: ma21tvcg
+  FirstAuthorBib: Ma and Maciejewski \cite{ma21tvcg}
+  Order: 127
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 17
+- Num: 101
+  Title: Efficient Morphing of Shape-preserving Star Coordinates
+  Authors: V. Molchanov; S. Hamid; L. Linsen
+  Venue Abrev.: PacificVis
+  Venue: IEEE Pacific Visualization Symposium
+  Field: Visualization and Visual Analytics
+  Year: 2020
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: .nan
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: 3.0
+  DR framework: .nan
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Molchanov et al.
+  BibIdentifier: molchanov20pacificvis
+  FirstAuthorBib: Molchanov et al. \cite{molchanov20pacificvis}
+  Order: 128
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 0
+- Num: 125
+  Title: Feature Learning for Nonlinear Dimensionality Reduction toward Maximal Extraction
+    of Hidden Patterns
+  Authors: T. Fujiwara; Y. -H. Kuo; A. Ynnerman; K. -L. Ma
+  Venue Abrev.: PacificVis
+  Venue: IEEE Pacific Visualization Symposium
+  Field: Visualization and Visual Analytics
+  Year: 2023
+  Preprocessing: .nan
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: 3.0
+  Visual Analytics System: .nan
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Fujiwara et al.
+  BibIdentifier: fujiwara23pacificvis
+  FirstAuthorBib: Fujiwara et al. \cite{fujiwara23pacificvis}
+  Order: 129
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 3
+- Num: 81
+  Title: 'Ldsscanner: Exploratory analysis of low-dimensional structures in high-dimensional
+    datasets'
+  Authors: J. Xia, F. Ye, W. Chen, Y. Wang, W. Chen, Y. Ma, and A. K. Tung
+  Venue Abrev.: TVCG
+  Venue: IEEE Transactions on Visualization and Computer Graphics
+  Field: Visualization and Visual Analytics
+  Year: 2017
+  Preprocessing: 3.0
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: 3.0
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: 3.0
+  Enhance awareness: 3.0
+  Enhance Approchability: .nan
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Xia et al.
+  BibIdentifier: xia17tvcg
+  FirstAuthorBib: Xia et al. \cite{xia17tvcg}
+  Order: 130
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 69
+- Num: 9
+  Title: Visualization methodology for multidimensional scaling
+  Authors: A. Buja and D. F. Swayne
+  Venue Abrev.: Classification
+  Venue: Journal of Classification
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2002
+  Preprocessing: 3.0
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: .nan
+  inaccuate: 3.0
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: .nan
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Buja and Swayne
+  BibIdentifier: buja02classification
+  FirstAuthorBib: Buja and Swayne \cite{buja02classification}
+  Order: 131
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 130
+- Num: 123
+  Title: 'EvoSets: Tracking the sensitivity of dimensionality reduction results across
+    subspaces'
+  Authors: G. Sun, S. Zhu, Q. Jiang, W. Xia, and R. Liang
+  Venue Abrev.: BD
+  Venue: IEEE Transaction on Big Data
+  Field: Machine Learning and Artificial Intelligence
+  Year: 2022
+  Preprocessing: 3.0
+  Dimensionality Reduction: 3.0
+  Quantitative Evaluation: .nan
+  Visualization: 3.0
+  inaccuate: .nan
+  suboptimal: .nan
+  unstable: 3.0
+  uninterpretable: .nan
+  unscalable: 3.0
+  incomplete: .nan
+  irrefective: .nan
+  uninformed: .nan
+  Enhance reliability: .nan
+  Enhance awareness: 3.0
+  Enhance Approchability: 3.0
+  Improvements on DR: .nan
+  Improvements of Evaluation: .nan
+  Visualization Stage Solutions: .nan
+  DR framework: .nan
+  Visual Analytics System: 3.0
+  Literature Review: .nan
+  Human-Centered Experiment: .nan
+  Computaional Experiment: .nan
+  FirstAuthor: Sun et al.
+  BibIdentifier: sun22bd
+  FirstAuthorBib: Sun et al. \cite{sun22bd}
+  Order: 132
+  Group: 1
+  GroupName: Architect
+  DOI: .nan
+  Citations: 12

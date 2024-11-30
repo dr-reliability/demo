@@ -23,7 +23,7 @@ const [sortBy, setSortBy] = useState('Random'); // State for sorting
     Stage: new Set(['Preprocessing', 'Dimensionality Reduction', 'Quantitative Evaluation', 'Visualization']),
     Problems: new Set(['inaccurate', 'suboptimal', 'incomplete', 'unstable', 'uninterpretable', 'unscalable', 'irreflective', 'uninformed']),
     Aim: new Set(['Enhance reliability', 'Enhance awareness', 'Enhance Approachability']),
-    Solution: new Set(['Improvements on DR', 'Improvements of Evaluation', 'Visualization Stage Solutions', 'DR framework', 'Visual Analytics System', 'Literature Review', 'Human-Centered Experiment', 'Computational Experiment']),
+    Solution: new Set(['Improvements on DR', 'Improvements of Evaluation', 'Visualization Stage Solutions', 'DR framework', 'Visual Analytics System', 'Literature Review', 'Human-Centered Experiment', 'User Study']),
     GroupName: new Set(['Pioneer', 'Judge', 'Instructor', 'Explorer', 'Explainer', 'Architect'])
   });
 

@@ -12,7 +12,7 @@
   Num: "54"
   Order: 0
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: 3.0
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -57,7 +57,7 @@
   Num: "82"
   Order: 1
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -100,7 +100,7 @@
   Num: "109"
   Order: 2
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -143,7 +143,7 @@
   Num: "22"
   Order: 3
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -186,7 +186,7 @@
   Num: "107"
   Order: 4
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -231,7 +231,7 @@
   Num: "73"
   Order: 5
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -276,7 +276,7 @@
   Num: "17"
   Order: 6
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -319,7 +319,7 @@
   Num: "10"
   Order: 7
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -360,7 +360,7 @@
   Num: "102"
   Order: 8
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -401,7 +401,7 @@
   Num: "3"
   Order: 9
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -444,7 +444,7 @@
   Num: "12"
   Order: 10
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -487,7 +487,7 @@
   Num: "24"
   Order: 11
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: 3.0
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -530,7 +530,7 @@
   Num: "53"
   Order: 12
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: 3.0
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -577,7 +577,7 @@
   Num: "94"
   Order: 13
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -618,7 +618,7 @@
   Num: "46"
   Order: 14
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -659,7 +659,7 @@
   Num: "124"
   Order: 15
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -702,7 +702,7 @@
   Num: "15"
   Order: 16
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -743,7 +743,7 @@
   Num: "98"
   Order: 17
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -784,7 +784,7 @@
   Num: "115"
   Order: 18
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -829,7 +829,7 @@
   Num: "86"
   Order: 19
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -872,7 +872,7 @@
   Num: "69"
   Order: 20
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -917,7 +917,7 @@
   Num: "130"
   Order: 21
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -958,7 +958,7 @@
   Num: "110"
   Order: 22
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1001,7 +1001,7 @@
   Num: "106"
   Order: 23
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1044,7 +1044,7 @@
   Num: "96"
   Order: 24
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1089,7 +1089,7 @@
   Num: "95"
   Order: 25
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1134,7 +1134,7 @@
   Num: "93"
   Order: 26
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1177,7 +1177,7 @@
   Num: "8"
   Order: 27
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1219,7 +1219,7 @@
   Num: "7"
   Order: 28
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1263,7 +1263,7 @@
   Num: "1"
   Order: 29
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1306,7 +1306,7 @@
   Num: "5"
   Order: 30
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1349,7 +1349,7 @@
   Num: "26"
   Order: 31
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1394,7 +1394,7 @@
   Num: "38"
   Order: 32
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1439,7 +1439,7 @@
   Num: "105"
   Order: 33
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -1484,7 +1484,7 @@
   Num: "36"
   Order: 34
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -1527,7 +1527,7 @@
   Num: "70"
   Order: 35
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -1572,7 +1572,7 @@
   Num: "83"
   Order: 36
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -1617,7 +1617,7 @@
   Num: "85"
   Order: 37
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -1658,7 +1658,7 @@
   Num: "108"
   Order: 38
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -1699,7 +1699,7 @@
   Num: "66"
   Order: 39
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -1744,7 +1744,7 @@
   Num: "39"
   Order: 40
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -1789,7 +1789,7 @@
   Num: "56"
   Order: 41
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -1832,7 +1832,7 @@
   Num: "45"
   Order: 42
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -1875,7 +1875,7 @@
   Num: "87"
   Order: 43
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -1918,7 +1918,7 @@
   Num: "88"
   Order: 44
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -1961,7 +1961,7 @@
   Num: "127"
   Order: 45
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -2006,7 +2006,7 @@
   Num: "34"
   Order: 46
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -2049,7 +2049,7 @@
   Num: "35"
   Order: 47
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -2092,7 +2092,7 @@
   Num: "129"
   Order: 48
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -2137,7 +2137,7 @@
   Num: "117"
   Order: 49
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -2182,7 +2182,7 @@
   Num: "23"
   Order: 50
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -2223,7 +2223,7 @@
   Num: "14"
   Order: 51
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -2266,7 +2266,7 @@
   Num: "67"
   Order: 52
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -2309,7 +2309,7 @@
   Num: "79"
   Order: 53
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: 3.0
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -2352,7 +2352,7 @@
   Num: "61"
   Order: 54
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -2395,7 +2395,7 @@
   Num: "28"
   Order: 55
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -2436,7 +2436,7 @@
   Num: "37"
   Order: 56
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -2479,7 +2479,7 @@
   Num: "118"
   Order: 57
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -2522,7 +2522,7 @@
   Num: "119"
   Order: 58
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -2567,7 +2567,7 @@
   Num: "0"
   Order: 59
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -2610,7 +2610,7 @@
   Num: "58"
   Order: 60
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -2655,7 +2655,7 @@
   Num: "131"
   Order: 61
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -2698,7 +2698,7 @@
   Num: "128"
   Order: 62
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -2741,7 +2741,7 @@
   Num: "18"
   Order: 63
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -2786,7 +2786,7 @@
   Num: "25"
   Order: 64
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -2831,7 +2831,7 @@
   Num: "44"
   Order: 65
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -2872,7 +2872,7 @@
   Num: "13"
   Order: 66
   Tags:
-    Computational Experiment: 3.0
+    User Study: 3.0
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -2917,7 +2917,7 @@
   Num: "49"
   Order: 67
   Tags:
-    Computational Experiment: 3.0
+    User Study: 3.0
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -2964,7 +2964,7 @@
   Num: "78"
   Order: 68
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3007,7 +3007,7 @@
   Num: "116"
   Order: 69
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3052,7 +3052,7 @@
   Num: "104"
   Order: 70
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3097,7 +3097,7 @@
   Num: "120"
   Order: 71
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3142,7 +3142,7 @@
   Num: "92"
   Order: 72
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3187,7 +3187,7 @@
   Num: "68"
   Order: 73
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3230,7 +3230,7 @@
   Num: "40"
   Order: 74
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3273,7 +3273,7 @@
   Num: "55"
   Order: 75
   Tags:
-    Computational Experiment: 3.0
+    User Study: 3.0
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3314,7 +3314,7 @@
   Num: "64"
   Order: 76
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3357,7 +3357,7 @@
   Num: "111"
   Order: 77
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3400,7 +3400,7 @@
   Num: "89"
   Order: 78
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3447,7 +3447,7 @@
   Num: "132"
   Order: 79
   Tags:
-    Computational Experiment: 3.0
+    User Study: 3.0
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3490,7 +3490,7 @@
   Num: "19"
   Order: 80
   Tags:
-    Computational Experiment: 3.0
+    User Study: 3.0
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3531,7 +3531,7 @@
   Num: "71"
   Order: 81
   Tags:
-    Computational Experiment: 3.0
+    User Study: 3.0
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3574,7 +3574,7 @@
   Num: "21"
   Order: 82
   Tags:
-    Computational Experiment: 3.0
+    User Study: 3.0
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -3617,7 +3617,7 @@
   Num: "100"
   Order: 83
   Tags:
-    Computational Experiment: 3.0
+    User Study: 3.0
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -3664,7 +3664,7 @@
   Num: "60"
   Order: 84
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -3709,7 +3709,7 @@
   Num: "31"
   Order: 85
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -3752,7 +3752,7 @@
   Num: "52"
   Order: 86
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -3795,7 +3795,7 @@
   Num: "84"
   Order: 87
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -3840,7 +3840,7 @@
   Num: "11"
   Order: 88
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -3883,7 +3883,7 @@
   Num: "2"
   Order: 89
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -3924,7 +3924,7 @@
   Num: "4"
   Order: 90
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -3967,7 +3967,7 @@
   Num: "50"
   Order: 91
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -4012,7 +4012,7 @@
   Num: "76"
   Order: 92
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: 3.0
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -4057,7 +4057,7 @@
   Num: "16"
   Order: 93
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -4102,7 +4102,7 @@
   Num: "30"
   Order: 94
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -4147,7 +4147,7 @@
   Num: "65"
   Order: 95
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -4190,7 +4190,7 @@
   Num: "29"
   Order: 96
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -4235,7 +4235,7 @@
   Num: "47"
   Order: 97
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -4278,7 +4278,7 @@
   Num: "122"
   Order: 98
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -4323,7 +4323,7 @@
   Num: "59"
   Order: 99
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -4366,7 +4366,7 @@
   Num: "33"
   Order: 100
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -4409,7 +4409,7 @@
   Num: "91"
   Order: 101
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -4454,7 +4454,7 @@
   Num: "75"
   Order: 102
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -4497,7 +4497,7 @@
   Num: "80"
   Order: 103
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -4542,7 +4542,7 @@
   Num: "42"
   Order: 104
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -4587,7 +4587,7 @@
   Num: "74"
   Order: 105
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -4628,7 +4628,7 @@
   Num: "97"
   Order: 106
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -4671,7 +4671,7 @@
   Num: "77"
   Order: 107
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -4714,7 +4714,7 @@
   Num: "63"
   Order: 108
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -4757,7 +4757,7 @@
   Num: "6"
   Order: 109
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -4800,7 +4800,7 @@
   Num: "113"
   Order: 110
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -4831,7 +4831,7 @@
   Year: "2021"
   doi: 10.1109/tvcg.2021.3114870
   venueA: TVCG
-- Authors: J. Z. Self, L. House, S. Leman, and C. North
+- Authors: J. Z. Self, M. Dowling, J. Wenskovitch, I. Crandell, M. Wang, L. House, S. Leman, and C. North
   BibIdentifier: self15tr
   Citation: "19"
   Detail:
@@ -4845,7 +4845,7 @@
   Num: "62"
   Order: 111
   Tags:
-    Computational Experiment: 3.0
+    User Study: 3.0
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: .nan
@@ -4869,11 +4869,11 @@
     uninterpretable: 3.0
     unscalable: 3.0
     unstable: 3.0
-  Title: Observation-level and Parametric Interaction for Exploratory Data Analysis
+  Title: Observation-Level and Parametric Interaction for High-Dimensional Data Analysis.
   Venue: Technical report, Department of Computer Sc., Virginia Tech, Virginia
-  Year: "2015"
-  doi: 10.1021/es0304345.s001
-  venueA: Tr
+  Year: "2018"
+  doi: 10.1145/3158230
+  venueA: TiiS
 - Authors: G. M. Mamani, F. M. Fatore, L. G. Nonato, and F. V. Paulovich
   BibIdentifier: mamani13cgf
   Citation: "55"
@@ -4886,7 +4886,7 @@
   Num: "51"
   Order: 112
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -4929,7 +4929,7 @@
   Num: "20"
   Order: 113
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -4972,7 +4972,7 @@
   Num: "27"
   Order: 114
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5017,7 +5017,7 @@
   Num: "99"
   Order: 115
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5060,7 +5060,7 @@
   Num: "126"
   Order: 116
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5105,7 +5105,7 @@
   Num: "90"
   Order: 117
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5148,7 +5148,7 @@
   Num: "72"
   Order: 118
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5193,7 +5193,7 @@
   Num: "114"
   Order: 119
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5236,7 +5236,7 @@
   Num: "103"
   Order: 120
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5279,7 +5279,7 @@
   Num: "57"
   Order: 121
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -5324,7 +5324,7 @@
   Num: "121"
   Order: 122
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: .nan
     Enhance Approachability: 3.0
@@ -5365,7 +5365,7 @@
   Num: "41"
   Order: 123
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5408,7 +5408,7 @@
   Num: "43"
   Order: 124
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5455,7 +5455,7 @@
   Num: "48"
   Order: 125
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5498,7 +5498,7 @@
   Num: "32"
   Order: 126
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5541,7 +5541,7 @@
   Num: "112"
   Order: 127
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5582,7 +5582,7 @@
   Num: "101"
   Order: 128
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5625,7 +5625,7 @@
   Num: "125"
   Order: 129
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: 3.0
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5670,7 +5670,7 @@
   Num: "81"
   Order: 130
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: .nan
@@ -5713,7 +5713,7 @@
   Num: "9"
   Order: 131
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
@@ -5756,7 +5756,7 @@
   Num: "123"
   Order: 132
   Tags:
-    Computational Experiment: .nan
+    User Study: .nan
     DR framework: .nan
     Dimensionality Reduction: 3.0
     Enhance Approachability: 3.0
